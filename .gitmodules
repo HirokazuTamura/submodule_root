@@ -1,3 +1,4 @@
 [submodule "refs"]
 	path = refs
 	url = git@github.com:HirokazuTamura/submodule_refs
+	ignore = dirty
